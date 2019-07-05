@@ -105,10 +105,21 @@ margin-left: 200px;
 margin-top: 300px;
 }
 
+.c1{
+
+margin-left: 200px;
+margin-top: 280px;
+}
+
 .b2{
   
   margin-left: 400px;
   margin-top: 250px;
+}
+
+.c2{
+  margin-left: 405px;
+  margin-top: 210px; 
 }
 
 .b3{
@@ -116,19 +127,36 @@ margin-top: 300px;
   margin-top: 300px;
 }
 
+.c3{
+  margin-left: 600px;
+  margin-top: 280px;
+}
+
 .b4{
   margin-left: 800px;
   margin-top: 250px;
+}
+.c4{
+  margin-left: 800px;
+  margin-top: 230px;
 }
 
 .b5{
   margin-left: 1000px;
   margin-top: 300px;
 }
+.c5{
+   margin-left: 996px;
+  margin-top: 282px;
+}
 
 .b6{
   margin-left: 1200px;
   margin-top: 250px;
+}
+.c6{
+  margin-left: 1200px;
+  margin-top: 230px;
 }
 .nav-btn{
  
