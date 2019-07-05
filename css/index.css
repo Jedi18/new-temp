@@ -19,11 +19,10 @@ body{
 }
 
 #third-div{
-    background-image: url("background-meetups.svg");
-    height: 500px;
+    background-image: url("background-meetups-svg.jpg");
+    height: 800px;
     width: 1500px;
-    position: relative;
-    margin-top: 20px;
+    background-position: center;
 }
 
 #flex-container{
