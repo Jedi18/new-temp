@@ -1,0 +1,45 @@
+body{
+    margin: 0x;
+    padding: 0px;
+}
+
+#particles-js{
+    background-image: url("banner_large.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    top: 0; right: 0; bottom: 0; left: 0; 
+}
+
+#second-div{
+    background-image: url("bg.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#third-div{
+    background-image: url("background-meetups.svg");
+    height: 500px;
+    width: 1500px;
+    position: relative;
+    margin-top: 20px;
+}
+
+#flex-container{
+    display: flex;
+    padding: 20px;
+}
+
+#flex-container > div{
+    margin-left: 200px;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+.ball {
+  position: absolute;
+  border-radius: 100%;
+  opacity: 0.7;
+}
