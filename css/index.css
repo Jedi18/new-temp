@@ -166,6 +166,13 @@ margin-top: 280px;
     border-radius: 100%;
 }
 
+.btn{
+  position: relative;
+  margin-top: 550px;
+  margin-left: 400px;
+  width: 200px;
+}
+
 /* .nav-btn>img:hover{
   height:60px;
   width: 60px;
