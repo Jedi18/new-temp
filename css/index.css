@@ -1,4 +1,4 @@
-body{
+.body{
     margin: 0x;
     padding: 0px;
 }
@@ -91,4 +91,19 @@ body{
 .content {
   margin-left: 75px;
   font-size: 30px;
+}
+
+.btn{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 530px;
+    height: 60px;
+    width: 300px;
+    border-radius: 100%;
+}
+
+.inc{
+    font-size: 25px;
+    font-family: fantasy;
+    letter-spacing: 3px;
 }
