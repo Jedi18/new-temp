@@ -7,7 +7,7 @@
     background-image: url("banner_large.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    
+
 }
 
 #second-div{
@@ -15,7 +15,7 @@
     height: 500px;
     background-repeat: no-repeat;
     background-size: cover;
-    
+
 }
 
 #third-div{
@@ -112,14 +112,14 @@ margin-top: 280px;
 }
 
 .b2{
-  
+
   margin-left: 400px;
   margin-top: 250px;
 }
 
 .c2{
   margin-left: 405px;
-  margin-top: 210px; 
+  margin-top: 210px;
 }
 
 .b3{
@@ -159,7 +159,7 @@ margin-top: 280px;
   margin-top: 230px;
 }
 .nav-btn{
- 
+
   position: absolute;
     height: 60px;
     width: 300px;
@@ -176,7 +176,7 @@ margin-top: 280px;
 /* .nav-btn>img:hover{
   height:60px;
   width: 60px;
-  transition : 1s ease; 
+  transition : 1s ease;
 } */
 
 @keyframes bounce {
@@ -196,7 +196,7 @@ margin-top: 280px;
 		transform:         translateY(-15px)
 	}
 }
-span {  
+span {
   position: absolute;
   margin-left: -80px;
   text-align: center;
@@ -216,4 +216,3 @@ span:hover {
   animation-name: bounce;
   -moz-animation-name: bounce;
 }
-
